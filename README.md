@@ -13,22 +13,29 @@ In the meantime ... here are some resources I check regularly
     - [Design Docs at Google](https://www.industrialempathy.com/posts/design-docs-at-google/)
   - On code reviews
     - [What to look for in a code review](https://google.github.io/eng-practices/review/reviewer/looking-for.html)
+  - On teams, roles, responsibilities and structure
+    - [Geek Culture](https://medium.com/geekculture/better-software-engineering-teams-structures-roles-responsibilities-and-comparison-with-common-fb5c3161c13d) article
 - Conference Talks
   - Spring IO talk on GraphQL by spring-graphql committer [Spring for GraphQL](https://www.youtube.com/watch?v=FMZckqbPGq0)
   - Spring IO talks on Security by spring-security lead [Spring Security](https://www.youtube.com/watch?v=7abwEP48faY) [Enterprise Security with Spring Authorization Server](https://www.youtube.com/watch?v=ELz8wNt_Rys) 
   - [Strange Loop Conference](https://www.youtube.com/@StrangeLoopConf) for mid west devs has some really interesting talks
-  - A Bootiful Podcast (spring podcast) by Josh Long [Reactive Spring](https://www.amazon.com/Reactive-Spring-Josh-Long/dp/1732910413) author: [Spring Security lead Rob Winch](https://spring.io/blog/2023/09/07/a-bootiful-podcast-spring-security-lead-rob-winch)
+  - A Bootiful Podcast (Spring podcast) by Josh Long [Reactive Spring](https://www.amazon.com/Reactive-Spring-Josh-Long/dp/1732910413) author: [Spring Security lead Rob Winch](https://spring.io/blog/2023/09/07/a-bootiful-podcast-spring-security-lead-rob-winch)
   - [Detroit Dev Day](https://www.youtube.com/watch?v=m2jtLPl1gUI&pp=ygUOZGV0cm9pdCBkZXZkYXk%3D) is Google-sponsored conference for Detroit devs
 - Engineering Blogs worth checking periodically
-  - [Netflix Engineering](https://netflixtechblog.com/)
-  - [Uber Engineering](https://www.uber.com/en-US/blog/engineering/)
-  - [Joel on Software](https://www.joelonsoftware.com/) -- blog by Joel Spolsky (bool: [Smart and Gets Things done](https://www.amazon.com/Smart-Gets-Things-Done-Technical/dp/1590598385/ref=asc_df_1590598385/?tag=hyprod-20&linkCode=df0&hvadid=692875362841&hvpos=&hvnetw=g&hvrand=15606483858116509605&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9016911&hvtargid=pla-2281435177418&psc=1&mcid=0ceaa8bb62f5354da729e9dd3f9af73b&hvocijid=15606483858116509605-1590598385-&hvexpln=73&gad_source=1))
+  - Company authored
+    - [Netflix Engineering](https://netflixtechblog.com/)
+    - [Uber Engineering](https://www.uber.com/en-US/blog/engineering/)
+  - Community authored
+    - [Geek Culture](https://medium.com/geekculture)
+    - [InfoQ Presentations](https://www.infoq.com/development/presentations/)
+    - [Dev.to](https://dev.to/) is basically the developer's portal for articles by developers for developers (think Microservices, React, ML, rate limiting) Android etc.
+  - Individual
+    - Joel Spolsky [Joel on Software](https://www.joelonsoftware.com/)
+    - Kent Beck's [Mastering Programming](https://tidyfirst.substack.com/p/mastering-programming)
 - Random articles
   - [Takeaways](https://www.alexdebrie.com/posts/dynamodb-paper/) from the famous Amazon DynamoDB paper
   - [Another Amazon DynamoDB paper summary](https://www.dynamodbguide.com/the-dynamo-paper/)
 - Newsletters worth subscribing to
-  - [Dev.to](https://dev.to/) is basically the developer's portal for articles by developers for developers (think Microservices, React, ML, rate limiting) Android etc.
-  - Kent Beck's [Mastering Programming](https://tidyfirst.substack.com/p/mastering-programming)
   - Alex Xu's [Byte Byte Go](https://blog.bytebytego.com/)
   - [Martin Fowler](https://martinfowler.com/agile.html) on Agile
   - Jeff Atwood's [Coding Horror](https://blog.codinghorror.com/)
@@ -60,6 +67,7 @@ In the meantime ... here are some resources I check regularly
   - Kent Beck's [Tidy First:  A Personal Exercise in Empirical Software Design](https://www.amazon.com/Tidy-First-Personal-Exercise-Empirical/dp/1098151240)
   - Chad Fowler [The Passionate Programmer: Creating a Remarkable Career in Software Development (Pragmatic Life)](https://www.amazon.com/Passionate-Programmer-Remarkable-Development-Pragmatic-ebook/dp/B00AYQNR5U) -> [pdf](https://github.com/media-lib/prog_lib/blob/master/general/Chad%20Fowler%20-%20The%20Passionate%20Programmer%2C%202nd%20edition.pdf)
   - Software Engineering @ Google ([book by Googlers](https://www.oreilly.com/library/view/software-engineering-at/9781492082781/)) -> [read online](https://abseil.io/resources/swe-book/html/toc.html)
+  - Joel Spolsky's [Smart and Gets Things done](https://www.amazon.com/Smart-Gets-Things-Done-Technical/dp/1590598385/ref=asc_df_1590598385/?tag=hyprod-20&linkCode=df0&hvadid=692875362841&hvpos=&hvnetw=g&hvrand=15606483858116509605&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9016911&hvtargid=pla-2281435177418&psc=1&mcid=0ceaa8bb62f5354da729e9dd3f9af73b&hvocijid=15606483858116509605-1590598385-&hvexpln=73&gad_source=1))
 - Reference
   - [Google style guide](https://google.github.io/styleguide/javaguide.html)
   - [Google Engineering best practices](https://google.github.io/eng-practices/) 
