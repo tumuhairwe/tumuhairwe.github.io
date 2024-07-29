@@ -4,9 +4,20 @@
 Coming soon: Rants about software engineering, interesting conference talks you may have missed and a disturbing amount of "cloud yelling"
 
 In the meantime ... here are some resources I check regularly
+- Articles
+  - On mentoring
+    - [Tips for mentoring junior developers and bringing them up to speed](https://www.shakebugs.com/blog/mentoring-junior-developers)
+    - [How to Mentor Junior Developers: A Step-by-Step Guide](https://www.revelo.com/blog/how-to-mentor-junior-developers)
+  - On design docs 
+    - [How to write a good software design doc](https://medium.com/free-code-camp/how-to-write-a-good-software-design-document-66fcf019569c)
+    - [Design Docs at Google](https://www.industrialempathy.com/posts/design-docs-at-google/)
+  - On code reviews
+    - [What to look for in a code review](https://google.github.io/eng-practices/review/reviewer/looking-for.html)
 - Conference Talks
-  - Spring IO talk on GraphQL but Spring committer [Spring for GraphQL](https://www.youtube.com/watch?v=FMZckqbPGq0)
+  - Spring IO talk on GraphQL by spring-graphql committer [Spring for GraphQL](https://www.youtube.com/watch?v=FMZckqbPGq0)
+  - Spring IO talks on Security by spring-security lead [Spring Security](https://www.youtube.com/watch?v=7abwEP48faY) [Enterprise Security with Spring Authorization Server](https://www.youtube.com/watch?v=ELz8wNt_Rys) 
   - [Strange Loop Conference](https://www.youtube.com/@StrangeLoopConf) for mid west devs has some really interesting talks
+  - A Bootiful Podcast (spring podcast) by Josh Long [Reactive Spring](https://www.amazon.com/Reactive-Spring-Josh-Long/dp/1732910413) author: [Spring Security lead Rob Winch](https://spring.io/blog/2023/09/07/a-bootiful-podcast-spring-security-lead-rob-winch)
   - [Detroit Dev Day](https://www.youtube.com/watch?v=m2jtLPl1gUI&pp=ygUOZGV0cm9pdCBkZXZkYXk%3D) is Google-sponsored conference for Detroit devs
 - Engineering Blogs worth checking periodically
   - [Netflix Engineering](https://netflixtechblog.com/)
@@ -17,7 +28,7 @@ In the meantime ... here are some resources I check regularly
   - [Another Amazon DynamoDB paper summary](https://www.dynamodbguide.com/the-dynamo-paper/)
 - Newsletters worth subscribing to
   - [Dev.to](https://dev.to/) is basically the developer's portal for articles by developers for developers (think Microservices, React, ML, rate limiting) Android etc.
-  - Kent Beck's [Mastering Programming](https://tidyfirst.substack.com/p/mastering-programming) 
+  - Kent Beck's [Mastering Programming](https://tidyfirst.substack.com/p/mastering-programming)
   - Alex Xu's [Byte Byte Go](https://blog.bytebytego.com/)
   - [Martin Fowler](https://martinfowler.com/agile.html) on Agile
   - Jeff Atwood's [Coding Horror](https://blog.codinghorror.com/)
@@ -46,3 +57,8 @@ In the meantime ... here are some resources I check regularly
   - [The First 90 Days: Proven Strategies for Getting Up to Speed Faster and Smarter](https://www.amazon.com/First-90-Days-Strategies-Expanded/dp/1422188612)
   - Uncle Bob's [Clean Architecture](https://www.amazon.com/Clean-Architecture-Craftsmans-Software-Structure/dp/0134494164) -> [pdf](https://github.com/GunterMueller/Books-3/blob/master/Clean%20Architecture%20A%20Craftsman%20Guide%20to%20Software%20Structure%20and%20Design.pdf)
   - Uncle Bob's [Clean Code](https://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882) -> [pdf](https://github.com/jnguyen095/clean-code/blob/master/Clean.Code.A.Handbook.of.Agile.Software.Craftsmanship.pdf)
+  - Kent Beck's [Tidy First:  A Personal Exercise in Empirical Software Design](https://www.amazon.com/Tidy-First-Personal-Exercise-Empirical/dp/1098151240)
+  - Chad Fowler [The Passionate Programmer: Creating a Remarkable Career in Software Development (Pragmatic Life)](https://www.amazon.com/Passionate-Programmer-Remarkable-Development-Pragmatic-ebook/dp/B00AYQNR5U) -> [pdf](https://github.com/media-lib/prog_lib/blob/master/general/Chad%20Fowler%20-%20The%20Passionate%20Programmer%2C%202nd%20edition.pdf)
+- Reference
+  - [Google style guide](https://google.github.io/styleguide/javaguide.html)
+  - [Google Engineering best practices](https://google.github.io/eng-practices/) 
