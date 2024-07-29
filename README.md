@@ -54,11 +54,12 @@ In the meantime ... here are some resources I check regularly
   - [The wonderful implications of computers that can learn](https://www.ted.com/talks/jeremy_howard_the_wonderful_and_terrifying_implications_of_computers_that_can_learn?subtitle=en)
   - [how virtual reality can create the ultimate empathy machine](https://www.ted.com/talks/chris_milk_how_virtual_reality_can_create_the_ultimate_empathy_machine?subtitle=en)
 - Books
-  - [The First 90 Days: Proven Strategies for Getting Up to Speed Faster and Smarter](https://www.amazon.com/First-90-Days-Strategies-Expanded/dp/1422188612)
-  - Uncle Bob's [Clean Architecture](https://www.amazon.com/Clean-Architecture-Craftsmans-Software-Structure/dp/0134494164) -> [pdf](https://github.com/GunterMueller/Books-3/blob/master/Clean%20Architecture%20A%20Craftsman%20Guide%20to%20Software%20Structure%20and%20Design.pdf)
-  - Uncle Bob's [Clean Code](https://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882) -> [pdf](https://github.com/jnguyen095/clean-code/blob/master/Clean.Code.A.Handbook.of.Agile.Software.Craftsmanship.pdf)
+  - Michael Wakin's [The First 90 Days: Proven Strategies for Getting Up to Speed Faster and Smarter](https://www.amazon.com/First-90-Days-Strategies-Expanded/dp/1422188612)
+  - Uncle Bob's [Clean Architecture](https://www.amazon.com/Clean-Architecture-Craftsmans-Software-Structure/dp/0134494164) || [pdf](https://github.com/GunterMueller/Books-3/blob/master/Clean%20Architecture%20A%20Craftsman%20Guide%20to%20Software%20Structure%20and%20Design.pdf)
+  - Uncle Bob's [Clean Code](https://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882) || [pdf](https://github.com/jnguyen095/clean-code/blob/master/Clean.Code.A.Handbook.of.Agile.Software.Craftsmanship.pdf)
   - Kent Beck's [Tidy First:  A Personal Exercise in Empirical Software Design](https://www.amazon.com/Tidy-First-Personal-Exercise-Empirical/dp/1098151240)
   - Chad Fowler [The Passionate Programmer: Creating a Remarkable Career in Software Development (Pragmatic Life)](https://www.amazon.com/Passionate-Programmer-Remarkable-Development-Pragmatic-ebook/dp/B00AYQNR5U) -> [pdf](https://github.com/media-lib/prog_lib/blob/master/general/Chad%20Fowler%20-%20The%20Passionate%20Programmer%2C%202nd%20edition.pdf)
+  - Software Engineering @ Google ([book by Googlers](https://www.oreilly.com/library/view/software-engineering-at/9781492082781/)) || [read online](https://abseil.io/resources/swe-book/html/toc.html)
 - Reference
   - [Google style guide](https://google.github.io/styleguide/javaguide.html)
   - [Google Engineering best practices](https://google.github.io/eng-practices/) 
